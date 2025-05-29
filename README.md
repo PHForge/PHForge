@@ -1,6 +1,6 @@
 # Welcome to PHForge! 👋
 
-I’m Pierre-Henri, a dedicated C/C++ developer building robust software and ready to bring my skills to exciting opportunities in the USA. My projects showcase my passion for high-performance coding, and I’m eager to contribute to innovative teams!
+I’m Pierre-Henri, a dedicated C/C++ developer building robust software. My projects showcase my passion for high-performance coding, and I’m eager to contribute to innovative teams!
 
 ## 🔧 Skills
 - Languages: C, C++
